@@ -189,5 +189,6 @@
   box-sizing: border-box;
   border-image-width: 40px;
   border-image-slice: 10;
+  border-image-repeat: stretch;
 
 }

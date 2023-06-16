@@ -30,7 +30,7 @@ img {
 }
 
 .task33 {
-  border-image-repeat: none;
+  border-image-repeat: repeat;
 }
 
 .item {
